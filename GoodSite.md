@@ -8,7 +8,6 @@ Pi:上次我有个问题，就是在这个上面找到答案的！而且自己�
 托管网站，仓库。可以放300M的东东，好爽！(顿时觉得做程序员是幸福的,这么多免费的)，自己的博客，日记都可以放在上面。而且最好的是上面的东西是开源，可以向别人学习或进一步地合作。
     * [github上值得关注的前端项目](http://segmentfault.com/a/1190000002804472)
 	资源多多的！
-	* [自己fork的项目](https://github.com/wangxizhu)
 	* [JavaScript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 
 * [MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)

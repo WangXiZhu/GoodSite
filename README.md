@@ -3,5 +3,6 @@
 	前端学习网站
 	==================
  -->
- ###author: zhangchuan
- ###university : chongqing university of technology
+前端学习推荐
+
+附上自己学习过程中的觉得比较好的网站
