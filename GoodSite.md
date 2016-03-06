@@ -15,10 +15,22 @@ Pi:上次我有个问题，就是在这个上面找到答案的！而且自己�
  Mozilla Foundation，Mozilla基金会我觉得这个挺厉害的。上面的内容应有尽有。而且自己还可以参与这个社区中进行翻译。(pi:自己之前上去翻译过几百字，觉得可能会误人子弟，就觉着先多看看书，再继续闯荡江湖！)
 
 * [MicroSoft](https://msdn.microsoft.com/zh-cn/library/)
-微软的，自己没怎么用过。
+	微软的，自己没怎么用过。
+
+* [Css-trick](https://css-tricks.com/)
+	前端新的内容，有的国内的文章就是直接翻译这上面的。
+
+* [smashingmagazine](https://www.smashingmagazine.com/)	
+	前端流行的趋势，主要是前端和UI设计方面的
+
+* [sitepoint](http://www.sitepoint.com/)
+	涉及到的内容包括了HTML, CSS, JavaScript, PHP, Ruby & Responsive Design等
+
+* [div.io](http://div.io/)
+	高质量前端资源汇聚	
 
 * [W3C](http://www.w3.org/TR/)
- 标准，没得话说！
+ 	标准，没得话说！
 
 * [jsrocks](http://jsrocks.org/)
  好像@hacke2龙哥之前翻译的文章就是这个网站的。
@@ -127,6 +139,8 @@ github插件，在我们查看github项目的时候，给我们提供一个树�
 * games
 	* [codetank](https://chrome.google.com/webstore/detail/codetank/akhhjlibdipmbloibedinfhloejbbkok?hl=zh-CN&utm_source=chrome-ntp-launcher)
 	tencent开发的基于html5,javascript的游戏，同时开发者可以自己根据API来写自己的游戏。
+
+
 ##其他
 * [知乎](http://www.zhihu.com/)
 可以在上面发表自己的观点。吐个槽什么的。
@@ -148,3 +162,11 @@ github插件，在我们查看github项目的时候，给我们提供一个树�
 
 * [在线markdown编辑器](http://mahua.jser.me/)
 现在正在使用，你懂的。
+
+* [简历建议](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=402642996&idx=1&sn=1bdd4498df7bb4d13e58e0602104658f&scene=0#wechat_redirect)
+	对于面试的人员来说，有一份好的简历还是能给自己争取到更多的机会。
+
+##推荐参考
+
+这个网站的连接应该是前端比较全的。
+[http://whycss.com/](http://whycss.com/)
