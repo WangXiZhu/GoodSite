@@ -178,3 +178,7 @@ github插件，在我们查看github项目的时候，给我们提供一个树�
 
 这个网站的连接应该是前端比较全的。
 [http://whycss.com/](http://whycss.com/)
+
+今天发现 豪情 的前端资料－－简直就是完美
+
+[网站地址](http://www.kancloud.cn/jikeytang/qq/87646)
