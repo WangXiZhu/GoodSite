@@ -177,3 +177,61 @@ preferences -> key bindings User
 ### slicy
 说是mac下的切图神器，也支持psd。但是里面的命名必须符合规范。然而设计师并不这么想，真是难为前端！还是只有使用ps+firework
 而且导出的也是单张图片，有时候设计师设计的根本不能单张图片切出来  这样你会疯的。不过还好，导出的图片是消除了背景的白色。
+
+#### cURL
+
+command line url viewer
+发出网络请求，然后输出。
+
+
+		> Accept: */*
+		>
+		< HTTP/1.1 200 OK
+		< Server: GitHub.com
+		< Content-Type: text/html; charset=utf-8
+		< Last-Modified: Wed, 30 Mar 2016 08:06:17 GMT
+		< Access-Control-Allow-Origin: *
+		< Expires: Thu, 31 Mar 2016 09:45:18 GMT
+		< Cache-Control: max-age=600
+		< X-GitHub-Request-Id: 67F5E01A:458D:66C0CF:56FCEF55
+		< Content-Length: 35153
+		< Accept-Ranges: bytes
+		< Date: Thu, 31 Mar 2016 09:35:18 GMT
+		< Via: 1.1 varnish
+		< Age: 0
+		< Connection: keep-alive
+		< X-Served-By: cache-itm7425-ITM
+		< X-Cache: MISS
+		< X-Cache-Hits: 0
+		< X-Timer: S1459416917.981616,VS0,VE397
+		< Vary: Accept-Encoding
+		< X-Fastly-Request-ID: 3f10fd132b52f3d966c044d16d8bd4e3d58a0b5b
+		<
+		<!DOCTYPE html>
+		<html>
+
+包含响应信息。如响应头和响应内容。
+其中 PHP中使用cURL实现Get和Post请求的方法。所以常常看到有
+
+		 <?php
+	        $ch = curl_init();
+	        curl_setopt($ch, CURLOPT_URL, url . param );
+	        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+	        curl_setopt($ch, CURLOPT_HEADER, 0);
+	        $result = curl_exec($ch);
+	        curl_close($ch);
+	    ?>
+
+### windows系统软件
+
+##### Launcy
+
+类似Mac下的Alfred,但是我在windows下面安装了毫无反应！
+
+##### Chocolatey
+
+包管理工具
+
+##### cygwin
+
+用了iterms后，回到window下有些不习惯。迫切地希望有一款同样强大的工具。就是不知道能不能达到期望值，下载后试用一下。
