@@ -66,6 +66,47 @@ Iterm2配色
 >* 清屏2：ctrl + l
 >* 清屏3：command + k
 
+
+
+### zsh
+终端shell。实现电脑可配置。这也是使用Mac后我觉得非常舒适的一点！个性化。
+mac 下有如下几种
+
+/bin/bash
+/bin/csh
+/bin/ksh
+/bin/sh
+/bin/tcsh
+/bin/zsh
+
+目前使用zsh，感觉比较好
+
+##### 配置文件
+
+open ~/.zshrc  //本地编辑器罗
+vim ~/.zshrc  //使用了vim
+
+// eg
+alias  ga = 'git add'
+
+// 定义环境变量或者path
+export PATH="/usr/local/share/python:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+export PROJECT_HOME=$HOME/Projects
+
+##### 生效文件
+
+source  ~/.zshrc
+
+PS:在Mac中修改了配置后，不像Windows中重启[程序/电脑]才能生效。
+
+
+##### 配置主题
+
+[各种主题](https://github.com/robbyrussell/oh-my-zsh/wiki/themes)
+
+个人觉得优秀： Honukai 、miloshadzic、默认主题也不错
+
+
 ### Evernote快捷键
 
 ##### 插入项
@@ -161,6 +202,22 @@ preferences -> key bindings User
 >* ⌘⌥1	单列
 >* ⌘⌥2	双列
 >* ⌘⌥5	网格 (4组)
+
+
+##### 禁用插件
+
+虽然我们觉得插件有时候给我们的帮助很大，但有时候却又不想用。如：我开发公司的项目，sublime下有less2css插件，每次保存代码都会生成css文件。
+
+那么我们怎么才能禁用呢？ sublime提供了相关的配置。步骤如下：
+
+preference ---> Setting-User ---> 设置 ignored_packages参数  
+
+		"ignored_packages":[
+			"Vintage",
+			"Less2Css"
+		]
+
+结果： preference ---> Package Setting  查看是否还有 Less2Css！ bingo
 
 
 ### Alfred
