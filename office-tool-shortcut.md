@@ -220,6 +220,24 @@ preference ---> Setting-User ---> 设置 ignored_packages参数
 结果： preference ---> Package Setting  查看是否还有 Less2Css！ bingo
 
 
+##### package setting
+
+* color highlighter
+* docbockr
+* emmet
+* evernote
+* git
+* gitgutter
+* less
+* less2css
+* markdown preview
+* nodejs
+* table editor
+* view in browser
+* liveReload
+* sublimeLinter
+* sublimeREPL
+
 ### Alfred
 真乃神器也！
 [教程](http://bbs.feng.com/read-htm-tid-6860401.html)
