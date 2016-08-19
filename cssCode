@@ -1,0 +1,27 @@
+//表格列宽自适应
+td{
+  white-space: nowrap;
+}
+
+//====包裹长文本
+pre{
+  white-space: pre-line;
+  word-wrap: break-word;
+}
+
+//====省略号动画
+.loading:after {
+    overflow: hidden;
+    display: inline-block;
+    vertical-align: bottom;
+    animation: ellipsis 2s infinite;
+    content: "\2026"; /* ascii code for the ellipsis character */
+}
+@keyframes ellipsis {
+    from {
+        width: 2px;
+    }
+    to {
+        width: 15px;
+    }
+}
