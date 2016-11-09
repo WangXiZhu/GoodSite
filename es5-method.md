@@ -1,3 +1,5 @@
+```
+
 //判断是否为数组
 
 Array.isArray(arg);
@@ -21,3 +23,11 @@ Array.include(param);
 //查找某值
 
 array.find(value);
+
+
+```
+
+* 伪数组转为数组
+```
+Array.prototype.slice.call(argument);
+```
