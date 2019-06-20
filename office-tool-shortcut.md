@@ -33,6 +33,9 @@ Iterm2配色
 >* 到行首：ctrl + a
 >* 到行尾：ctrl + e
 
+//update
+
+>* 删除光标前的一个单词 ctrl + w
 ##### 标签
 
 >* 新建标签：command + t
